@@ -1,0 +1,13 @@
+.image-component{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    margin-top: 10px;
+}
